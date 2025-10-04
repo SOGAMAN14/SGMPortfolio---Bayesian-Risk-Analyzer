@@ -1,0 +1,5 @@
+{
+  "name": "SGMPortFolio: The Bayesian Risk Analyzer",
+  "description": "An interactive application for sophisticated investors to model, visualize, and stress-test investment portfolios by mapping the complex web of probabilistic risk dependencies using a dynamic Bayesian Network.",
+  "requestFramePermissions": []
+}
