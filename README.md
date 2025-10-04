@@ -61,7 +61,7 @@ The model outputs guide optimal decision-making under uncertainty.
 ## 5. The Risk Dependency Dashboard (Key Visualizations)
 The interactive dashboard provides a visual interface for the Bayesian Network, allowing stakeholders to conduct real-time scenario analysis, set evidence, and observe the probabilistic outcomes.
 
-View the Dashboard Mockup: SGMPortfolio.pdf](docs/SGMPortfolio.pdf
+[View the Dashboard Mockup: SGMPortfolio.pdf](./SGMPortfolio.pdf)
 
 ## 6. Methodological Framework (Technical Details)
 <details>
